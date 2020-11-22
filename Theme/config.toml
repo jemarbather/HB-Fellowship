@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://hbfellowship.netlify.app/"
 title = "Universal"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -9,6 +9,7 @@ disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"] 
 # Define the number of posts per page
 paginate = 10
 
