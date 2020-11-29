@@ -744,7 +744,7 @@ fieldset[disabled] .btn-template-primary.active {
   height: 100%;
 }
 #intro .item h1 {
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-size: 50px;
   color: #fff;
   margin-bottom: 40px;
