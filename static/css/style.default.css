@@ -1198,7 +1198,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel h1 {
   font-weight: 700;
-  text-transform: none;
+  text-transform: uppercase;
   font-size: 46px;
   letter-spacing: 0.08em;
 }
