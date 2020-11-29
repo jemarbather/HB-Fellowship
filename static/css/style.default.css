@@ -104,7 +104,7 @@ div.section {
   margin-bottom: 0;
   padding-bottom: 10px;
   vertical-align: middle;
-  text-transform: none;
+  text-transform: uppercase;
   letter-spacing: 0.06em;
 }
 .heading h1 i[class^="fa"],
@@ -179,7 +179,7 @@ ul.list-style-none {
 }
 .pages-listing .item h3 {
   font-size: 18px;
-  text-transform: uppercase;
+  text-transform: none;
   margin-bottom: 20px;
   letter-spacing: 0.08em;
 }
