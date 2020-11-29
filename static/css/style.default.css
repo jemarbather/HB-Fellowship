@@ -179,7 +179,7 @@ ul.list-style-none {
 }
 .pages-listing .item h3 {
   font-size: 18px;
-  text-transform: none;
+  text-transform: uppercase;
   margin-bottom: 20px;
   letter-spacing: 0.08em;
 }
@@ -744,7 +744,7 @@ fieldset[disabled] .btn-template-primary.active {
   height: 100%;
 }
 #intro .item h1 {
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 50px;
   color: #fff;
   margin-bottom: 40px;
